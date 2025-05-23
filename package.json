@@ -1,0 +1,9 @@
+{
+  "name": "ckeditor-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "ckeditor5": "^45.0.0",
+    "ckeditor5-premium-features": "^45.0.0"
+  }
+}
